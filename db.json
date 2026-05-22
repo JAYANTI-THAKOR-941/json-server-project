@@ -1,0 +1,37 @@
+{
+  "products": [
+    {
+      "name": "JBL Tune 520BT Wireless Headphones",
+      "description": "Wireless Bluetooth headphones with JBL Pure Bass sound, 57-hour battery life, and foldable design.",
+      "price": "2999",
+      "category": "Electronics / Headphones",
+      "image": "https://www.gonoise.com/cdn/shop/files/Artboard_14_Am5.webp?v=1776771237",
+      "id": "TPFT_5-45Gc"
+    },
+    {
+      "name": "Logitech G203 Wired Gaming Mouse",
+      "description": "RGB gaming mouse with high-precision sensor and customizable buttons for gamers.",
+      "price": "1779",
+      "category": "Electronics / Gaming Mouse",
+      "image": "https://m.media-amazon.com/images/I/31Q4oU1le-L._SY300_SX300_QL70_FMwebp_.jpg",
+      "id": "Fbpgg7MlB_I"
+    },
+    {
+      "name": "Safari Rizz 24L Laptop Backpack",
+      "description": "Stylish 24L laptop backpack with multiple compartments and comfortable design.",
+      "price": "1299",
+      "category": "Bags / Laptop Backpack",
+      "image": "https://m.media-amazon.com/images/I/619uBH8R88L._SX679_.jpg",
+      "id": "xpzG-vpZ5Fw"
+    },
+    {
+      "name": "CMF by Nothing Watch Pro",
+      "description": "Smartwatch with large display, Bluetooth calling, fitness tracking, and long battery life.",
+      "price": "3299",
+      "category": "Electronics / Smartwatch",
+      "image": "https://m.media-amazon.com/images/I/51FXyB03h1L._SX522_.jpg",
+      "id": "9PWFh6O4Rcc"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
